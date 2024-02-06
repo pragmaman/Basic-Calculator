@@ -1,0 +1,19 @@
+// SPDX-License-Identifier: MIT 
+
+pragma solidity ^0.8.20;
+
+ contract basicDataTypes {
+    // basic data types 
+    bool countryName = true ;
+    uint8  numberEight = 8 ;
+    uint16 numberSixteen = 16 ; 
+    uint32 numberThirtytwo = 32 ;
+    uint64 numberSixtyfour = 64 ;
+    uint256 numbertwoFivesix = 256 ; 
+    int8 numberThree = -1 ;
+    int16 numbersixteen = -2 ;
+    int32 numberThirtytwo = -3 ;
+    int64 numbersixtyfour = -4 ;
+    int256 numberTwofivesix = -5 ;
+    address myaddress = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4 ;
+    string myString = "web3 " ;
